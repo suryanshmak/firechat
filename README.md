@@ -1,3 +1,3 @@
 ## Firechat 
 
-The only messenger you'd want!
+A messenger made as a side project with technologies like typescript, graphQL, firebase and tailwind!
