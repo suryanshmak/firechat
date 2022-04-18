@@ -1,3 +1,3 @@
 ## Firechat 
 
-A messenger made as a side project with technologies like typescript, graphQL, firebase and tailwind!
+A messenger made as a side project with technologies like Next.js, graphQL, firebase, Hasura and tailwind!
